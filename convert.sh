@@ -1,0 +1,1 @@
+python3 convert-to-wav.py /home/ubuntu/jupyter/genres/blues /home/ubuntu/jupyter/genres/classical /home/ubuntu/jupyter/genres/country /home/ubuntu/jupyter/genres/disco /home/ubuntu/jupyter/genres/hiphop /home/ubuntu/jupyter/genres/jazz /home/ubuntu/jupyter/genres/metal /home/ubuntu/jupyter/genres/pop /home/ubuntu/jupyter/genres/reggae /home/ubuntu/jupyter/genres/rock
